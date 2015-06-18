@@ -11,7 +11,9 @@
 OSCENO è un nodo basato su modulo wifi economico ESP8266; ad esso è collegato uno o più neopixel. Il nodo è programmato per generare una rete wifi come AP o collegarsi a rete esistente, e per accettare comandi via OSC.
 Tali comandi, inviati da apposita app per pc e Android scritta in Processing (o da qualsiasi app in grado di generare pacchetti OSC), permettono di interagire con i neopixel o con eventuali altri attuatori collegati al modulo (es. relè).
 Questo consente quindi di usare OSCENO come nodo economico per illuminazione interattiva o per domotica.
+
 //
+
 OSCENO is a node based on the ESP8266 cheap wifi module, plus one or more NeoPixel.
 The node is able to create an own wifi network, or to connect to an existent one, and accept OSC commands.
 These commands, sent by a pc/android app (written with Processing), allow you to interact with the NeoPixel or with other actuators connected (eg relay).
